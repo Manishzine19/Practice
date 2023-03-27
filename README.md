@@ -1,2 +1,3 @@
 # Practice
-Just exploring github
+Just exploring github. 
+Trying to use git bash.
